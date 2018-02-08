@@ -38,6 +38,18 @@ div.col-md-8 {
   border: 1px solid #ddd;
 }
 
+div.col-md-6 {
+  background-color: white;
+  padding-bottom: 20px;
+  border: 1px solid #ddd;
+}
+
+div.col-md-8 {
+  background-color: white;
+  padding-bottom: 20px;
+  border: 1px solid #ddd;
+}
+
 div.col-md-4 {
   font-size: 20px;
 }
@@ -51,7 +63,6 @@ ul {
   padding-top: 15px;
 }
 input.form-control {
-  
 }
 
 
@@ -61,15 +72,146 @@ img {
 }
 
 footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    width: 100%;
-    background-color: #666;
-    color: white;
-    text-align: center;
-    border-top: 8px solid;
-    border-color: #4aaaa5;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 100%;
+  background-color: #666;
+  color: white;
+  text-align: center;
+  border-top: 8px solid;
+  border-color: #4aaaa5;
   }
+
+div.col-md-3 {
+  margin-right: 20px;
+  margin-left: 20px;
+  height: 110px;
+  width: 140px;
+}
+
+div.col-md-3 img{
+  height: 140px;
+  width: 180px;
+}
+
+div.col-md-2 {
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+div.col-md-2 img{
+  height: 140px;
+  width: 180px;
+  margin-right: 20px;
+}
+
+div.col-md-2 h3{
+  font-size: 15px;
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+  bottom: 20px;
+  width: 180px;
+  padding: 15px;
+  margin-bottom: 0;
+}
+
+div.col-md-3 h3{
+  font-size: 15px;
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+  bottom: 20px;
+  width: 180px;
+  padding: 15px;
+  margin-bottom: 0;
+}
+
+/*div.work {
+  position: relative;
+  float: left;
+  width: 274px;
+  margin: 20px 0 25px;
+  overflow: auto;
+}
+
+div.work:nth-child(even) {
+  margin-right: 40px;
+}
+
+div.work img {
+  width: 100%;
+  border: 0 none;
+  opacity: 0.8;
+}
+
+div.work h3 {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+}
+
+div.auth-image {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
+}*/
+
+/* contact page */
+
+/*#contact-form ul {
+  margin-bottom: 20px;
+}
+
+#contact-form li {
+  margin-bottom: 10px;
+}
+
+label,
+input[type=text],
+input[type=email],
+textarea {
+  display: block;
+  width: 100%;
+}
+
+input[type=text],
+input[type=email],
+textarea {
+  height: 35px;
+  padding: 0 10px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+}
+
+textarea {
+  height: 200px;
+}
+
+input[type=submit] {
+  padding: 10px 30px;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  background: #4aaaa5;
+  border: 0 none;
+  
+}*/
